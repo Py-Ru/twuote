@@ -1,2 +1,2 @@
 # twuote
-Created with CodeSandbox
+Just a dummy design.
